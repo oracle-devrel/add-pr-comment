@@ -1,6 +1,6 @@
 {
   "name": "@mshick/add-pr-comment",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "description": "A GitHub Action which adds a comment to a Pull Request Issue.",
   "keywords": [
     "GitHub",
@@ -148,6 +148,6 @@
     "vitest": "^0.30.1"
   },
   "engines": {
-    "node": "^14.15.0 || ^16.13.0 || ^18.0.0"
+    "node": "^16.13.0 || ^18.0.0 || ^20.0.0"
   }
 }
